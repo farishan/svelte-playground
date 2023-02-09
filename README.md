@@ -1,6 +1,6 @@
 ## Components
 
-All files in `./src/components` should be portable enough to copy to another Svelte app project.
+All files in `./src/components` and `./src/actions` should be portable enough to copy to another Svelte app project.
 
 ## Install Dependencies
 

@@ -7,6 +7,7 @@
 	import HeadedMovableRectangleTest from '../components/HeadedMovableRectangleTest.svelte';
 	import Resizable8DirectionRectangleTest from '../components/Resizable8DirectionRectangleTest.svelte';
 	import ResizableMovableRectangleTest from '../components/ResizableMovableRectangleTest.svelte';
+	import InputWithHistory from '../components/InputWithHistory.svelte';
 </script>
 
 <h1>Welcome to Svelte Playground</h1>
@@ -21,3 +22,4 @@
 <HeadedMovableRectangleTest />
 <Resizable8DirectionRectangleTest />
 <ResizableMovableRectangleTest />
+<InputWithHistory />
